@@ -1,0 +1,35 @@
+Trabajaremos con este dataset: https://www.kaggle.com/tbsteal/canadian-car-accidents-19942014?select=drivingLegend.pdf
+
+A primera vista, me interesa saber varias cosas:
+
+- ¿Qué tipos de vehículos (modelos, antigüedad, etc.) y conductores son más propensos a tener accidentes (acción correctiva en prima)?
+
+- ¿Qué tipos de vehículos (modelos, antigüedad, etc.) y conductores son menos propensos a tener accidentes (descuento en prima)?
+
+- ¿Qué es lo que más contribuye a que existan fallecimientos en un accidente?
+
+- Dado un accidente, ¿se puede generar un modelo que prediga si habrá fallecimientos o no? ¿Si se va a necesitar tratamiento médico o no? Las aseguradoras tienen que inmovilizar capital para pagar estas casuísticas. 
+
+- Plus: complementar con datos abiertos de clima (aunque Canadá es muy grande) y de otra tipología, ¿hay algún tipo de relación con temperaturas medias, precipitación media del día/mes, nieve...? ¿a más días festivos o de vacaciones, más accidentes? etc. 
+
+Libertad para generar análisis de valor y nuevas ideas. 
+
+Pasos:
+
+EDA.
+Establecer objetivos a modelar.
+Para cada variable target
+Modelo base. Ej.- Imputar a todos los valores los de la clase dominante (si el 80 son positivos, todos son positivos
+Modelo de regresión lineal simple + Lasso (vale una reg. simple?)
+Selección de variables (justificación). 
+Modelo GLM
+Modelo RandomForest
+Modelo SVM
+Modelo XGBBoost
+Modelo LightGBM
+Optimización de hiperparámetros para el mejor modelo y contrucción de pipeline
+Interpretabilidad
+Conclusiones finales
+Adicionalmente, debemos hacer otra práctica, más pequeña, para un caso de multiclasificación, lo haremos con esto: https://www.kaggle.com/vikaspericherla/automobile-customer-multiclassification, hay que predecir la oferta más adecuada (última columna). 
+
+Se puede empezar a trabajar desde ya, empezando por el de accidentes. Comentamos en clase, saludos. 
