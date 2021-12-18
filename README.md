@@ -8,4 +8,4 @@ Ignacio Sigüenza (ignacio.siguenza@cunef.edu)
 
 Los datos originales son de acceso abierto en el siguiente enlace: https://www.kaggle.com/tbsteal/canadian-car-accidents-19942014?select=drivingLegend.pdf
 
-En el caso de los datos a los que se les ha aplicado la limpieza + análisis exploratorio y el modelo guardado en formato pickle (archivo binario) pueden solicitarse, puesto no se encuentran publicados en este repositorio por el tamaño del archivos que los contienen.
+En el caso de los datos a los que se les ha aplicado la limpieza + análisis exploratorio y el modelo guardado en formato pickle (archivo binario) pueden solicitarse, puesto no se encuentran publicados en este repositorio debido al tamaño de los archivos que los contienen.
