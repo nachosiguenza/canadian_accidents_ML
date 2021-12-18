@@ -1,6 +1,7 @@
 **Este repositorio contiene el código de un modelo predictivo de fatalidad en accidentes de tráfico (clasificador binario), desde las etapas iniciales de limpieza, *feature engineering* hasta el modelado, interpretabilidad y exportación de dicho modelo para su posterior puesta en producción.**
 
 **Autores:**
+<br>
 Marisa Alonso (marisa.alonso@cunef.edu)
 <br>
 Ignacio Sigüenza (ignacio.siguenza@cunef.edu)
