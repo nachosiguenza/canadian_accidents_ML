@@ -2,6 +2,7 @@
 
 **Autores:**
 Marisa Alonso (marisa.alonso@cunef.edu)
+<br>
 Ignacio Sigüenza (ignacio.siguenza@cunef.edu)
 
 Los datos originales son de acceso abierto en el siguiente enlace: https://www.kaggle.com/tbsteal/canadian-car-accidents-19942014?select=drivingLegend.pdf
